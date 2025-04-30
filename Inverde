@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inverde - Plantas Inteligentes</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; background-color: #f4f4f4; }
+        header { background: #2e7d32; color: white; text-align: center; padding: 50px; }
+        .hero { background: url('https://images.unsplash.com/photo-1512428813834-c177b91b7b03') no-repeat center; background-size: cover; padding: 100px 20px; text-align: center; color: white; }
+        .hero h1 { font-size: 48px; }
+        .cta { background: #4caf50; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; }
+        .features { display: flex; justify-content: center; gap: 20px; padding: 50px; }
+        .feature { background: white; padding: 20px; border-radius: 10px; width: 200px; text-align: center; }
+        footer { background: #2e7d32; color: white; text-align: center; padding: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Inverde</h1>
+        <p>Plantas de interior com tecnologia para transformar sua casa</p>
+    </header>
+    <section class="hero">
+        <h1>Cuide das suas plantas com inteligência</h1>
+        <p>Escolha sua planta, personalize seu vaso e receba dicas pelo app!</p>
+        <a href="#shop" class="cta">Compre Agora</a>
+    </section>
+    <section class="features">
+        <div class="feature">
+            <h3>Sensores IoT</h3>
+            <p>Monitoram umidade, luz e nutrientes em tempo real.</p>
+        </div>
+        <div class="feature">
+            <h3>App Personalizado</h3>
+            <p>Notificações e dicas para cuidar das suas plantas.</p>
+        </div>
+        <div class="feature">
+            <h3>Design Sustentável</h3>
+            <p>Vasos ecológicos e plantas de viveiros certificados.</p>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2025 Inverde. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
