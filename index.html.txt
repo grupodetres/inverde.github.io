@@ -2,14 +2,13 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Meu Site no GitHub Pages</title>
+    <title>Inverde | Sustentabilidade e Inovação</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Olá, mundo!</h1>
-    <p>Este é meu primeiro site hospedado no GitHub Pages.</p>
-    <button onclick="mostrarAlerta()">Clique aqui</button>
-
+    <h1>Bem-vindo à Inverde</h1>
+    <p>Conectando tecnologia com sustentabilidade. Estamos construindo um futuro mais verde.</p>
+    <button onclick="mostrarAlerta()">Saiba mais</button>
     <script src="script.js"></script>
 </body>
 </html>
